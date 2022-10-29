@@ -1,0 +1,87 @@
+10/29/2022 2:53:21 PM	This log contains information about the import schema operation into project 'BookStore' on computer 'LAPTOP-91PDL6FM' by user 'HP'.
+10/29/2022 2:53:21 PM	Import of database schema has started.
+10/29/2022 2:53:41 PM	Gathering database credentials
+10/29/2022 2:53:41 PM	Gathering database options
+10/29/2022 2:53:41 PM	Gathering generic database scoped configuration option
+10/29/2022 2:53:41 PM	Gathering users
+10/29/2022 2:53:41 PM	Gathering roles
+10/29/2022 2:53:41 PM	Gathering application roles
+10/29/2022 2:53:41 PM	Gathering role memberships
+10/29/2022 2:53:41 PM	Gathering filegroups
+10/29/2022 2:53:41 PM	Gathering full-text catalogs
+10/29/2022 2:53:41 PM	Gathering assemblies
+10/29/2022 2:53:41 PM	Gathering certificates
+10/29/2022 2:53:41 PM	Gathering asymmetric keys
+10/29/2022 2:53:41 PM	Gathering symmetric keys
+10/29/2022 2:53:41 PM	Gathering encrypted symmetric keys
+10/29/2022 2:53:41 PM	Gathering schemas
+10/29/2022 2:53:41 PM	Gathering XML schema collections
+10/29/2022 2:53:41 PM	Gathering user-defined data types
+10/29/2022 2:53:41 PM	Gathering user-defined types
+10/29/2022 2:53:41 PM	Gathering table types
+10/29/2022 2:53:41 PM	Gathering unique keys for table types
+10/29/2022 2:53:41 PM	Gathering primary keys for table types
+10/29/2022 2:53:41 PM	Gathering indexes for table types
+10/29/2022 2:53:41 PM	Gathering check constraints for table types
+10/29/2022 2:53:41 PM	Gathering default constraints for table types
+10/29/2022 2:53:41 PM	Gathering partition functions
+10/29/2022 2:53:41 PM	Gathering partition schemes
+10/29/2022 2:53:41 PM	Gathering functions
+10/29/2022 2:53:41 PM	Gathering encrypted functions
+10/29/2022 2:53:42 PM	Gathering aggregates
+10/29/2022 2:53:42 PM	Gathering procedures
+10/29/2022 2:53:42 PM	Gathering encrypted procedures
+10/29/2022 2:53:42 PM	Gathering tables
+10/29/2022 2:53:42 PM	Gathering primary keys
+10/29/2022 2:53:42 PM	Gathering unique constraints
+10/29/2022 2:53:42 PM	Gathering foreign keys
+10/29/2022 2:53:42 PM	Gathering default constraints
+10/29/2022 2:53:42 PM	Gathering check constraints
+10/29/2022 2:53:42 PM	Gathering views
+10/29/2022 2:53:42 PM	Gathering encrypted views
+10/29/2022 2:53:42 PM	Gathering indexes
+10/29/2022 2:53:42 PM	Gathering statistics
+10/29/2022 2:53:42 PM	Gathering full-text index stoplists
+10/29/2022 2:53:42 PM	Gathering search property lists
+10/29/2022 2:53:42 PM	Gathering search properties
+10/29/2022 2:53:42 PM	Gathering full-text indexes
+10/29/2022 2:53:42 PM	Gathering column store indexes
+10/29/2022 2:53:42 PM	Gathering spatial indexes
+10/29/2022 2:53:42 PM	Gathering XML indexes
+10/29/2022 2:53:42 PM	Gathering Selective XML indexes
+10/29/2022 2:53:43 PM	Gathering encrypted triggers
+10/29/2022 2:53:43 PM	Gathering triggers
+10/29/2022 2:53:43 PM	Gathering encrypted and clr ddl triggers
+10/29/2022 2:53:43 PM	Gathering ddl triggers
+10/29/2022 2:53:43 PM	Creating edge constraints
+10/29/2022 2:53:43 PM	Gathering synonyms
+10/29/2022 2:53:43 PM	Gathering defaults
+10/29/2022 2:53:43 PM	Gathering data constraint uddt bindings
+10/29/2022 2:53:43 PM	Gathering rules
+10/29/2022 2:53:43 PM	Gathering data constraint uddt bindings
+10/29/2022 2:53:43 PM	Gathering message types
+10/29/2022 2:53:43 PM	Gathering queues
+10/29/2022 2:53:43 PM	Gathering contracts
+10/29/2022 2:53:43 PM	Gathering services
+10/29/2022 2:53:43 PM	Gathering event notifications
+10/29/2022 2:53:43 PM	Gathering remote service bindings
+10/29/2022 2:53:43 PM	Gathering broker priorities
+10/29/2022 2:53:43 PM	Gathering signatures
+10/29/2022 2:53:43 PM	Gathering data compression options
+10/29/2022 2:53:43 PM	Gathering sequence types
+10/29/2022 2:53:43 PM	Gathering security policies
+10/29/2022 2:53:43 PM	Gather column encryption keys
+10/29/2022 2:53:43 PM	Gathering column master keys
+10/29/2022 2:53:43 PM	Gathering external data sources
+10/29/2022 2:53:43 PM	Gathering external file formats
+10/29/2022 2:53:43 PM	Gathering external tables
+10/29/2022 2:53:43 PM	Gathering extended properties
+10/29/2022 2:53:43 PM	Gathering assemblies
+10/29/2022 2:53:44 PM	Gathering credentials
+10/29/2022 2:53:44 PM	Gathering logins
+10/29/2022 2:53:44 PM	Gathering server audits
+10/29/2022 2:53:44 PM	Scanning project for duplicate elements
+10/29/2022 2:53:44 PM	Finished duplicate element processing
+10/29/2022 2:53:44 PM	Finished importing database.
+10/29/2022 2:53:44 PM	A summary of the import was saved to the following location: D:\Cac tai lieu hoc tap\HK 7 (2022 - 2023)\Kiem Thu Phan Mem\Thuc Hanh\BTHKiemThuUniTets\Calculator\BookStore\Import Schema Logs\BookStore_20221029075321.log
+10/29/2022 2:53:44 PM	Click Finish to continue...

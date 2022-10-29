@@ -1,0 +1,10 @@
+D:\Cac tai lieu hoc tap\HK 7 (2022 - 2023)\Kiem Thu Phan Mem\Thuc Hanh\BTHKiemThuUniTets\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Cac tai lieu hoc tap\HK 7 (2022 - 2023)\Kiem Thu Phan Mem\Thuc Hanh\BTHKiemThuUniTets\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Cac tai lieu hoc tap\HK 7 (2022 - 2023)\Kiem Thu Phan Mem\Thuc Hanh\BTHKiemThuUniTets\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Cac tai lieu hoc tap\HK 7 (2022 - 2023)\Kiem Thu Phan Mem\Thuc Hanh\BTHKiemThuUniTets\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Cac tai lieu hoc tap\HK 7 (2022 - 2023)\Kiem Thu Phan Mem\Thuc Hanh\BTHKiemThuUniTets\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Cac tai lieu hoc tap\HK 7 (2022 - 2023)\Kiem Thu Phan Mem\Thuc Hanh\BTHKiemThuUniTets\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Cac tai lieu hoc tap\HK 7 (2022 - 2023)\Kiem Thu Phan Mem\Thuc Hanh\BTHKiemThuUniTets\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Cac tai lieu hoc tap\HK 7 (2022 - 2023)\Kiem Thu Phan Mem\Thuc Hanh\BTHKiemThuUniTets\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Cac tai lieu hoc tap\HK 7 (2022 - 2023)\Kiem Thu Phan Mem\Thuc Hanh\BTHKiemThuUniTets\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Cac tai lieu hoc tap\HK 7 (2022 - 2023)\Kiem Thu Phan Mem\Thuc Hanh\BTHKiemThuUniTets\Calculator\Calculator\obj\Debug\Calculator.pdb
